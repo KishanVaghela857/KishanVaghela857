@@ -9,13 +9,7 @@
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 👨‍💻 All of my projects are available at [working...](working...)
-
-- 📝 I regularly write articles on [working...](working...)
-
 - 📫 How to reach me **vaghelakishan857@gmail,com**
-
-- 📄 Know about my experiences [working...](working...)
 
 - ⚡ Fun fact **I Think I am Funny**
 
