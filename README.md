@@ -49,11 +49,5 @@
 
 ---
 
-### ✨ Latest Projects  
-- 🎨 [**Portfolio Website**](https://your-live-demo-link) – Showcasing my work & skills  
-- 🛠️ **Node.js Contact Form** – Backend mailer using Nodemailer  
-- 🌟 More coming soon...  
-
----
 
 <p align="center">⚡ Thanks for visiting my profile! Let's connect and build something amazing 🚀</p>
